@@ -1,5 +1,5 @@
-# Welcome to my blog.
-## this is my log for studying AI and deep learning.
+## Welcome to my blog.
+### this is my log for studying AI and deep learning.
 
 ### the record
 
