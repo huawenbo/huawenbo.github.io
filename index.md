@@ -1,11 +1,11 @@
 ## Welcome to my blog.
-### this is my log for studying AI and deep learning.
+this is my log for studying AI and deep learning.
 
-### the record
+the record
 
-### my life
+my life
 
-### the article
+the article
 1. ERSW-project
     - [page](http://www.huawenbo.tk/ERSW-project/)
     - [code](https://github.com/huawenbo/ERSW-project)
